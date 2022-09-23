@@ -20,8 +20,8 @@ The rules of the game are slightly different from the normal rules of this game.
 
 ### normal game
 
-<img src="./normal game.gif" alt="normal game gif" width="100%">
+<img src="./gifs/normal game.gif" alt="normal game gif" width="100%">
 
 ### random row|column selected points change
 
-<img src="./random colom or row selected points change.gif" alt="random row|column selected points change gif" width="100%">
+<img src="./gifs/random colom or row selected points change.gif" alt="random row|column selected points change gif" width="100%">
