@@ -1,7 +1,7 @@
 # tic-tac-toe description
 
 This exercise was related to the lesson of special topics on the subject of JavaScript.
-In case of practice, we are asked to create a 10 x 10 matrix to play the tic tac toe game.
+For this exercise, we were asked to create a 10 x 10 matrix to play the tic tac toe game.
 The rules of the game are slightly different from the normal rules of this game.
 
 ## Terms and conditions similar to normal tic tac toe :
